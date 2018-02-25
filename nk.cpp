@@ -5,7 +5,7 @@ using namespace std;
     int sum= 0;
  for (int i=1; i <= N;i++)
  {       
- ans += (i+K);
+ sum+= (i+K);
  }
     return sum;
 }
