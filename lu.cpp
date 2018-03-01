@@ -19,6 +19,6 @@ void main()
   cout<<"Enter the string:"<<endl;
 	cin>>str1;
 	str1=str1+32;
-	cout<<"character in lowercase = "<<str1<<endl;
+	cout<<"The string in lowercase = "<<str1<<endl;
 getch();
 }
