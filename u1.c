@@ -46,3 +46,5 @@ v[j]=tmp;
   for(i=0;i<(n-cnt);i++)
 {
 printf("%d\t",v[i]);
+  }
+}
